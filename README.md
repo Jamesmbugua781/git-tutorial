@@ -20,7 +20,7 @@ Fully testable and maintainable design
 Cross-platform path handling with os.path
 
 Usage;
-Clone the repository:git clone https://github.com/your-username/directory-tree-analyzer.git
+Clone the repository:git clone https://github.com/jamesmbugua781/directory-tree-analyzer.git
 
 Navigate to the project folder:
 cd directory-tree-analyzer
